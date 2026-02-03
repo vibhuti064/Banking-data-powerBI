@@ -64,7 +64,7 @@ From the analysis of **10,000+ customers**, the following inferences were drawn:
 
 ### Dashboard Overview
 
-![Dashboard Overview]()
+![Dashboard Overview](https://github.com/vibhuti064/Banking-data-powerBI/blob/main/Screenshot%20(1085).png)
 
 ### Calculated Columns (DAX)
 
